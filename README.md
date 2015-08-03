@@ -1,5 +1,7 @@
 # Deploy Button Help
 
+[![Join the chat at https://gitter.im/deploybutton/wiki](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/deploybutton/wiki?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Add a Github Postcommit Hook
 
 ### What are webhooks?
